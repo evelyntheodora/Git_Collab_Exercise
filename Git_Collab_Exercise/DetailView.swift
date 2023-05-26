@@ -1,8 +1,8 @@
 //
 //  DetailView.swift
-//  GIT_Collaboration_Test
+//  Git_Collab_Exercise
 //
-//  Created by Dini on 16/05/23.
+//  Created by Vincent Gunawan on 26/05/23.
 //
 
 import SwiftUI
@@ -60,5 +60,3 @@ struct DetailView_Previews: PreviewProvider {
         DetailView()
     }
 }
-
-
